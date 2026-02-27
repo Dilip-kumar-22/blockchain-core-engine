@@ -1,0 +1,2 @@
+# Standard Library only (No pip installs needed)
+# Demonstrates pure architectural mastery.
